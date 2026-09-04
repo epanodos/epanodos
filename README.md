@@ -8,7 +8,7 @@
 
 ## 已公开
 
-- [**Lawyer Agent Workbench**](https://github.com/l17791457155-cmyk/lawyer-agent-workbench)：首批公开 Agent 驱动 Obsidian、长期项目管理、民商事案件分析、民事诉讼模拟法庭和诉讼可视化五个单元。
+- [**Lawyer Agent Workbench**](https://github.com/l17791457155-cmyk/lawyer-agent-workbench)：目前公开 Agent 驱动 Obsidian、长期项目管理、民商事案件分析、案例检索、民事诉讼模拟法庭和诉讼可视化六个单元。
 
 ## 准备陆续整理
 
