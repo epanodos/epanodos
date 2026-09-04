@@ -6,6 +6,10 @@
 - **Agent 驱动 Obsidian**：尝试把 Obsidian 作为 Agent 的长期记忆和个人知识系统。
 - **真实项目中的 Agent 实践**：记录从意向、Demo、测试到交付和售后的完整过程。
 
+## 已公开
+
+- [**Lawyer Agent Workbench**](https://github.com/l17791457155-cmyk/lawyer-agent-workbench)：首批公开 Agent 驱动 Obsidian、长期项目管理、民商事案件分析、民事诉讼模拟法庭和诉讼可视化五个单元。
+
 ## 准备陆续整理
 
 - Agent 基础方法与长期项目管理
@@ -14,4 +18,3 @@
 - Dify、Obsidian 与软件项目实践
 
 第三方 Skill 可以前往相应的 GitHub 仓库自行获取；这里主要整理我在实际使用中形成的方法、改进和案例。
-
