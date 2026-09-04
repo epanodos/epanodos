@@ -1,0 +1,15 @@
+# Sensitive or local-only files
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+secrets/
+private/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
